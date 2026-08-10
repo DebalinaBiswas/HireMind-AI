@@ -12,7 +12,7 @@ The platform combines resume parsing, Retrieval-Augmented Generation (RAG), LLM-
 - Candidate profile creation
 - Resume-aware interview question generation
 - Role-specific question generation
-- Knowledge-base retrieval using RAG
+- **Knowledge Base Ingestion** — Ingests domain-specific technical documents and builds a searchable knowledge base for interview generation.
 - AI-generated technical interview questions
 - Dynamic interview flow supporting any number of questions returned by the backend
 - Individual answer evaluation
