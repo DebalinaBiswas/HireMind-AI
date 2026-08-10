@@ -70,6 +70,24 @@ The platform combines resume parsing, Retrieval-Augmented Generation (RAG), LLM-
 - Postman
 
 ---
+#Clone the Repository
+git clone https://github.com/DebalinaBiswas/HireMind-AI.git
+cd HireMind-AI
+
+#Backend Setup
+Navigate to the backend:
+cd backend
+
+#Create a Python virtual environment:
+
+Windows
+python -m venv .venv
+
+#Activate it:
+.venv\Scripts\activate
+
+#Install the required dependencies:
+pip install -r requirements.txt
 
 # System Architecture
 
