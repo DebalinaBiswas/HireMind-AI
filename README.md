@@ -87,7 +87,6 @@ Before running HireMind AI, make sure the following are installed:
 
 Open a terminal and run:
 
-```bash
 git clone https://github.com/DebalinaBiswas/HireMind-AI.git
 cd HireMind-AI
 
