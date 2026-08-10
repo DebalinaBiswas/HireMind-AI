@@ -70,24 +70,26 @@ The platform combines resume parsing, Retrieval-Augmented Generation (RAG), LLM-
 - Postman
 
 ---
-#Clone the Repository
+# Setup Instructions
+
+## Prerequisites
+
+Before running HireMind AI, make sure the following are installed:
+
+- Python 3.10 or higher
+- Node.js and npm
+- Git
+- Google Gemini API key
+
+---
+
+## 1. Clone the Repository
+
+Open a terminal and run:
+
+```bash
 git clone https://github.com/DebalinaBiswas/HireMind-AI.git
 cd HireMind-AI
-
-#Backend Setup
-Navigate to the backend:
-cd backend
-
-#Create a Python virtual environment:
-
-Windows
-python -m venv .venv
-
-#Activate it:
-.venv\Scripts\activate
-
-#Install the required dependencies:
-pip install -r requirements.txt
 
 # System Architecture
 
